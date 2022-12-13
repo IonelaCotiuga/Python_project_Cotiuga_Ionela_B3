@@ -7,12 +7,12 @@ Realizati un script in python care sa permita anumite operații pe procese:\
 ● Suspend/resume pentru un process\
 ● Posibilitatea de a porni/opri un process (inclusiv cu o linie de comanda aferentă)\
 ● Informații despre procesele care rulează (cat procesor folosesc, cata memorie
-folosesc)\
+folosesc)
 
 INPUT:\
 process.py view ⇒ listeaza toate procesele + informatii aditionale per process\
 process.py suspend <PID> ⇒ suspenda procesul cu un anumit PID\
 process.py kill <PID> ⇒ opreste procesul cu un anumit PID\
-process.py run path parametri ⇒ porneste un process\
+process.py run path parametri ⇒ porneste un process
 
 OUTPUT:

@@ -3,11 +3,11 @@
 Name: Browser ProcessViewer ID:25 Difficulty: B Propose: GDT
 
 Realizati un script in python care sa permita anumite operații pe procese:\
-● Vizualizare procese curente care rulează pe masina (PID, Nume, Path)
-● Suspend/resume pentru un process
-● Posibilitatea de a porni/opri un process (inclusiv cu o linie de comanda aferentă)
+● Vizualizare procese curente care rulează pe masina (PID, Nume, Path)\
+● Suspend/resume pentru un process\
+● Posibilitatea de a porni/opri un process (inclusiv cu o linie de comanda aferentă)\
 ● Informații despre procesele care rulează (cat procesor folosesc, cata memorie
-folosesc)
+folosesc)\
 
 INPUT:
 process.py view ⇒ listeaza toate procesele + informatii aditionale per process
